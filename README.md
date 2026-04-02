@@ -1,16 +1,16 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║   GABRIEL SAUNDERS  ·  CS ENTHUSIAST  ·  HACKATHON BUILDER   ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║   GABRIEL SAUNDERS  ·  CS ENTHUSIAST  ·  HACKATHON PARTICIPANT   ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <div align="center">
 
-*Building things. Breaking things. Travelling everywhere in between.*
+*Traveling around the world, making new friends and programming in between.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gbrsaunders-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbrsaunders/)
 [![Email](https://img.shields.io/badge/Email-gabrielsaunders410-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsaunders410@gmail.com)
@@ -24,14 +24,14 @@
 
 ```yaml
 name:       Gabriel Saunders
-role:       CS Student & Builder
-location:   Somewhere with good Wi-Fi 🌍
+role:       Computer Science Student
+location:   Somewhere with good Wi-Fi and sunny
 interests:
-  - Hackathons & competitive builds
-  - Robotics & embedded systems
-  - Open source tinkering
+  - Hackathons
+  - Robotics
+  - Developing projects for real problems
   - Learning anything I don't know yet
-currently:  Always working on something new
+currently:  Android App - Coming Soon
 ```
 
 ---
