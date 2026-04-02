@@ -61,13 +61,6 @@ currently:  Android App - Coming Soon
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gbrsaunders&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrsaunders&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gbrsaunders&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
