@@ -1,16 +1,16 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║   GABRIEL SAUNDERS  ·  CS ENTHUSIAST  ·  HACKATHON PARTICIPANT   ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║   GABRIEL SAUNDERS  ·  CS ENTHUSIAST  ·  HACKATHON BUILDER   ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <div align="center">
 
-*Traveling around the world, making new friends and programming in between.*
+*Building things. Breaking things. Travelling everywhere in between.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gbrsaunders-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbrsaunders/)
 [![Email](https://img.shields.io/badge/Email-gabrielsaunders410-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsaunders410@gmail.com)
@@ -24,14 +24,14 @@
 
 ```yaml
 name:       Gabriel Saunders
-role:       Computer Science Student
-location:   Somewhere with good Wi-Fi and sunny
+role:       CS Student & Builder
+location:   Somewhere with good Wi-Fi 🌍
 interests:
-  - Hackathons
-  - Robotics
-  - Developing projects for real problems
+  - Hackathons & competitive builds
+  - Robotics & embedded systems
+  - Open source tinkering
   - Learning anything I don't know yet
-currently:  Android App - Coming Soon
+currently:  Always working on something new
 ```
 
 ---
@@ -48,6 +48,7 @@ currently:  Android App - Coming Soon
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -89,7 +90,6 @@ currently:  Android App - Coming Soon
 │  Message me if you have any enquiries about repositories or          │
 │  wanting to connect. 👇                                              │
 └──────────────────────────────────────────────────────────────────────┘
-```
 ```
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gbrsaunders/)
